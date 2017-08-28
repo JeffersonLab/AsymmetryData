@@ -4,6 +4,8 @@
 
 A compliation of the world's high precision, low Q<sup>2</sup> asymmetry data.
 
+<img src="./Figures/AsymFigure.png">
+
 ## References
 
 * M. Paolone et al., PRL 105 (2010) 072001.
