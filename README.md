@@ -22,3 +22,4 @@ For this we use the rebinned data of Arrington, Hill and Lee.
 * X. Zhan et al., PLB 705 (2011) 59.
 * C. Crawford et al., PRL 98 (2007) 052301. 
 * C. Carlson et al., PRC 93 (2016) 065207.
+* G. Lee, J.R. Arrington, R.J. Hill, PRD 92 (2015) 013013.
