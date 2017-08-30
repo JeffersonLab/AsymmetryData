@@ -14,7 +14,7 @@ For this we use the rebinned data of Arrington, Hill and Lee.
 
 <img src="./Figures/GeFigure.png">
 
-<img src='./Figures/GmFigure.png">
+<img src="./Figures/GmFigure.png">
 
 ## References
 
