@@ -12,7 +12,8 @@ Next we use the asymmetry function to extract the form factors from cross sectio
 
 For this we use the rebinned data of Arrington, Hill and Lee.
 
-<img src="./Figures/GeFigure.png">
+#responsive-image {  width: 100%;  height: auto; }
+<img src="./Figures/GeFigure.png" id="responsive-image" >
 
 <img src="./Figures/GmFigure.png">
 
